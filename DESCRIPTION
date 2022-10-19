@@ -13,3 +13,5 @@ LazyData: true
 RoxygenNote: 7.2.1
 Depends: 
     R (>= 2.10)
+URL: https://github.com/mtblumenstock/HW2Pack
+BugReports: https://github.com/mtblumenstock/HW2Pack/issues
